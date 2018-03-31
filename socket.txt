@@ -1,0 +1,9 @@
+Array
+(
+    [Host] => localhost
+    [Accept] => */*
+    [Accept-Language] => zh-CN;q=0.8
+    [Content-Length] => 390
+    [Expect] => 100-continue
+    [Content-Type] => multipart/form-data; boundary=------------------------2eb61fba73bdbc4d
+)
