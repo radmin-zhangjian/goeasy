@@ -1,10 +1,13 @@
 {
-    "name": "zhangjian/goeasy",
+    "name": "zhangjian/goeasy-push",
+    "description": "goeasy",
+    "license": "goeasy",
     "authors": [
         {
             "name": "zhangjian",
             "email": "6204000@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
