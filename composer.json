@@ -1,17 +1,17 @@
 {
-    "name": "zhangjianyu/goeasypush",
+    "name": "radmin-zhangjian/goeasypush",
     "description": "goeasypush",
     "type": "library",
     "require": {
         "php": ">=5.4.0",
-        "goeasy": "v1.0.2"
+        "goeasy": "v1.0.6"
     },
     "require-dev": {
         "php": ">=5.4.0"
     },
     "authors": [
         {
-            "name": "zhangjian",
+            "name": "radmin-zhangjian",
             "email": "6204000@qq.com"
         }
     ],
