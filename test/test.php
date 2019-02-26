@@ -3,7 +3,7 @@
 //define('ROOT',dirname(__DIR__));
 //require_once(__DIR__ . 'goeasy/Goeasy.php');
 
-use goeasy\Goeasy;
+use goeasypush\Goeasy;
 
 $url = 'https://rest-hangzhou.goeasy.io/publish';
 // $url = 'http://localhost/goeasy/index2.php';

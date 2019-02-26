@@ -6,7 +6,7 @@
  * Time: 上午9:25
  */
 
-namespace goeasy;
+namespace goeasypush;
 
 
 class Goeasy
