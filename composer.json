@@ -1,6 +1,6 @@
 {
-    "name": "zhangjian/push-goeasy",
-    "description": "goeasy",
+    "name": "zhangjian/goeasypush",
+    "description": "goeasypush",
     "type": "library",
     "require": {
         "php": ">=5.4.0",
@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "goeasy\\": ""
+            "goeasypush\\": ""
         }
     }
 }
